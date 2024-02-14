@@ -1,5 +1,6 @@
-# Learn more about E-Bike Libraries Worldwide!
+# Learn more about E-Bike Libraries!
 
-* [Charlottesville](https://www.ebikelibrarycville.org/)
-* [Boston](https://camberville.ebikelibrary.org/)
+* [Cambridge and Boston, MA](https://camberville.ebikelibrary.org/)
+* [Charlottesville, VA](https://www.ebikelibrarycville.org/)
+* [Richmond, VA](https://www.ebikelibraryrva.org/)
 * [Vermont](https://www.localmotion.org/ebikes)
