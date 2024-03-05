@@ -1,5 +1,7 @@
 # Learn more about E-Bike Libraries!
 
+* Stirling, Scotland: [FEL Scotland E-Bike Library](https://felscotland.org/bike-library/)
+* Niagara Falls, NY: [Create a Healtheir Niagara Falls](https://www.healthierniagarafalls.org/our-work/e-bike-library)
 * Buffalo, NY: [East Side Bike Club E-Bike Library](https://www.esbcbuffalo.com/e-bike-library)
 * [Cambridge and Boston, MA](https://camberville.ebikelibrary.org/)
 * [Charlottesville, VA](https://www.ebikelibrarycville.org/)
