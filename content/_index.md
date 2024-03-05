@@ -1,5 +1,6 @@
 # Learn more about E-Bike Libraries!
 
+* Buffalo, NY: [East Side Bike Club E-Bike Library](https://www.esbcbuffalo.com/e-bike-library)
 * [Cambridge and Boston, MA](https://camberville.ebikelibrary.org/)
 * [Charlottesville, VA](https://www.ebikelibrarycville.org/)
 * [Richmond, VA](https://www.ebikelibraryrva.org/)
